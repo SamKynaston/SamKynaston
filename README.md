@@ -1,9 +1,8 @@
 ### Hi! 👋
 
-I'm Samuel (He/They). I'm a Junior Full-Stack Developer 🚀 and Project Manager ⌚
+I'm Sam. I'm a Junior Full-Stack Developer 🚀, Project Manager ⌚ & former Roblox Developer.
 
-- 🔭 I’m currently working on my portfolio, luau games and backend APIs using C# and Express.JS!
-- 🌱 I’m currently learning Rust and Ruby, as well as better C# programming practices
+- 🔭 I’m currently working on my portfolio, Java Applications and backend APIs using C# and Express.JS!
 
 Check out my portfolio! https://kynno.co.uk
 
