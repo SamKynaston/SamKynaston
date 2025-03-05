@@ -1,8 +1,9 @@
 ### Hi! 👋
 
-I'm Sam. I'm a Junior Full-Stack Developer 🚀, Project Manager ⌚ & former Roblox Developer.
+I'm a Junior Full-Stack Developer 🚀, Project Manager ⌚ & Full Time Student 📖
 
 - 🔭 I’m currently working on my portfolio, Java Applications and backend APIs using C# and Express.JS!
+- 🌱 I’m currently learning Java, Rust and C#
 
 Check out my portfolio! https://kynno.co.uk
 
